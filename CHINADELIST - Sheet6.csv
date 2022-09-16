@@ -1,0 +1,259 @@
+groupid,size,id
+SHI*,1,Basic Industries
+GURE,1,Basic Industries
+PTR*,1,Basic Industries
+ACH*,1,Basic Industries
+CGA,1,Basic Industries
+ITP,1,Basic Industries
+TANH,1,Basic Industries
+HUDI,1,Basic Industries
+TCOM,1,Business Services
+NCTY,1,Business Services
+CREG,1,Business Services
+GRNQ,1,Business Services
+TC,1,Business Services
+UXIN,1,Business Services
+PDD,1,Business Services
+BAOS,1,Business Services
+CPOP§,1,Business Services
+UTSI,1,Capital Goods
+CAAS,1,Capital Goods
+CBAT,1,Capital Goods
+FFHL,1,Capital Goods
+KNDI,1,Capital Goods
+AEHL,1,Capital Goods
+NISN,1,Capital Goods
+ZKIN,1,Capital Goods
+RETO,1,Capital Goods
+GTEC§,1,Capital Goods
+NIU,1,Capital Goods
+DOGZ,1,Consumer Durables
+KXIN,1,Consumer Durables
+VIOT,1,Consumer Durables
+NIO,1,Consumer Durables
+HAPP,1,Consumer Durables
+LI,1,Consumer Durables
+EVK,1,Consumer Non-Durables
+SEED,1,Consumer Non-Durables
+PLAG,1,Consumer Non-Durables
+PME,1,Consumer Non-Durables
+LLL (prev.KBSF),1,Consumer Non-Durables
+BTB (prev. MYT),1,Consumer Non-Durables
+SISI (prev.TYHT),1,Consumer Non-Durables
+PETZ,1,Consumer Non-Durables
+FAMI,1,Consumer Non-Durables
+BTOG (prev. PLIN),1,Consumer Non-Durables
+YSG,1,Consumer Non-Durables
+DDL§,1,Consumer Non-Durables
+MF§,1,Consumer Non-Durables
+RLX,1,Consumer Non-Durables
+EDU,1,Consumer Services
+AACG,1,Consumer Services
+HTHT,1,Consumer Services
+TAL,1,Consumer Services
+FENG,1,Consumer Services
+VIPS,1,Consumer Services
+LITB,1,Consumer Services
+TOUR,1,Consumer Services
+TEDU,1,Consumer Services
+JD,1,Consumer Services
+HLG,1,Consumer Services
+BZUN,1,Consumer Services
+COE,1,Consumer Services
+YUMC,1,Consumer Services
+HUSN,1,Consumer Services
+FEDU,1,Consumer Services
+SECO,1,Consumer Services
+RYB,1,Consumer Services
+BEDU,1,Consumer Services
+REDU,1,Consumer Services
+TKAT,1,Consumer Services
+AMBO,1,Consumer Services
+CANG,1,Consumer Services
+CSCW,1,Consumer Services
+MOGU,1,Consumer Services
+NEW,1,Consumer Services
+GHG,1,Consumer Services
+STG,1,Consumer Services
+ONE,1,Consumer Services
+MSC,1,Consumer Services
+METX,1,Consumer Services
+WAFU,1,Consumer Services
+ATIF§,1,Consumer Services
+MOHO,1,Consumer Services
+DAO,1,Consumer Services
+YJ,1,Consumer Services
+GOTU (prev. GSX),1,Consumer Services
+CLEU,1,Consumer Services
+ZCMD,1,Consumer Services
+EDTK,1,Consumer Services
+OCG,1,Consumer Services
+YGMZ,1,Consumer Services
+WNW,1,Consumer Services
+LXEH,1,Consumer Services
+BQ,1,Consumer Services
+IH,1,Consumer Services
+YQ,1,Consumer Services
+DADA,1,Consumer Services
+MNSO,1,Consumer Services
+BON§,1,Consumer Services
+EJH§,1,Consumer Services
+JZXN§,1,Consumer Services
+ZME§,1,Consumer Services
+KUKE,1,Consumer Services
+OG§,1,Consumer Services
+FHS,1,Consumer Services
+EM,1,Consumer Services
+RERE§,1,Consumer Services
+HNP*,1,Energy
+SNP*,1,Energy
+RCON,1,Energy
+CNEY,1,Energy
+LFC*,1,Finance
+HGSH,1,Finance
+FANH,1,Finance
+DXF,1,Finance
+NOAH,1,Finance
+CCNC,1,Finance
+YRD,1,Finance
+JP,1,Finance
+LYL,1,Finance
+SOS,1,Finance
+LX,1,Finance
+JT,1,Finance
+QD,1,Finance
+FINV,1,Finance
+BTBT,1,Finance
+AIHS,1,Finance
+PHCF,1,Finance
+WEI,1,Finance
+CNF,1,Finance
+QFIN,1,Finance
+XYF,1,Finance
+MDJH,1,Finance
+PUYI,1,Finance
+JFIN,1,Finance
+JFU,1,Finance
+TIGR,1,Finance
+CIH,1,Finance
+BRLI,1,Finance
+GRCY,1,Finance
+HUIZ,1,Finance
+QNGY (prev. CCAC),1,Finance
+LU,1,Finance
+TIRX,1,Finance
+SNTG§,1,Finance
+HYW,1,Finance
+LAAA§,1,Finance
+SPK§,1,Finance
+WDH§,1,Finance
+BIMI,1,Health Care
+CO,1,Health Care
+CPHI,1,Health Care
+CJJD,1,Health Care
+HCM,1,Health Care
+BGNE,1,Health Care
+AHG (prev. HX),1,Health Care
+ZLAB,1,Health Care
+YI,1,Health Care
+SXTC,1,Health Care
+AIH,1,Health Care
+ANPC,1,Health Care
+IMAB,1,Health Care
+GTH,1,Health Care
+BNR,1,Health Care
+LEGN,1,Health Care
+QLI,1,Health Care
+UPC,1,Health Care
+ADAG,1,Health Care
+GRCL,1,Health Care
+CNTB,1,Health Care
+LIAN§,1,Health Care
+MHUA§,1,Health Care
+NTP,1,Real Estate
+XIN,1,Real Estate
+LEJU,1,Real Estate
+DUO,1,Real Estate
+BEKE,1,Real Estate
+UK,1,Real Estate
+QK,1,Real Estate
+SOHU,1,Technology
+NTES,1,Technology
+JOBS,1,Technology
+FTFT,1,Technology
+BIDU,1,Technology
+CSIQ,1,Technology
+ANTE,1,Technology
+TAOP,1,Technology
+LKCO,1,Technology
+TROO (prev. SGOC),1,Technology
+JKS,1,Technology
+DQ,1,Technology
+SFUN,1,Technology
+CNET,1,Technology
+VNET,1,Technology
+RENN,1,Technology
+YY,1,Technology
+GLG,1,Technology
+BTCM,1,Technology
+ATHM,1,Technology
+XNET,1,Technology
+CMCM,1,Technology
+MOMO,1,Technology
+WB,1,Technology
+BABA,1,Technology
+MFH,1,Technology
+BRQS,1,Technology
+SPI,1,Technology
+MOXC,1,Technology
+GDS,1,Technology
+ACMR,1,Technology
+DTSS,1,Technology
+CLPS,1,Technology
+PT,1,Technology
+CTK,1,Technology
+JG,1,Technology
+QTT,1,Technology
+ZEPP,1,Technology
+HUYA,1,Technology
+BILI,1,Technology
+TME,1,Technology
+IQ,1,Technology
+LAIX,1,Technology
+MTC,1,Technology
+BHAT,1,Technology
+PBTS,1,Technology
+KRKR,1,Technology
+MKD,1,Technology
+CAN,1,Technology
+SY,1,Technology
+OCFT,1,Technology
+DOYU,1,Technology
+SJ,1,Technology
+HOLI,1,Technology
+WIMI,1,Technology
+QH,1,Technology
+LIZI,1,Technology
+BLCT,1,Technology
+YALA,1,Technology
+API,1,Technology
+KC,1,Technology
+CD,1,Technology
+XPEV,1,Technology
+GSMG,1,Technology
+UTME,1,Technology
+IFBD,1,Technology
+JWEL,1,Technology
+SDH,1,Technology
+RAAS,1,Technology
+ZH,1,Technology
+BZ§,1,Technology
+TUYA,1,Technology
+DIDI§,1,Technology
+ZNH*,1,Transportation
+CEA*,1,Transportation
+ZTO,1,Transportation
+BEST,1,Transportation
+EH,1,Transportation
+EZGO,1,Transportation
+YMM§,1,Transportation
