@@ -1,0 +1,259 @@
+groupid,size,id
+SHI*,4816,Basic Industries
+GURE,44,Basic Industries
+PTR*,151582,Basic Industries
+ACH*,14290,Basic Industries
+CGA,86,Basic Industries
+ITP,22,Basic Industries
+TANH,7,Basic Industries
+HUDI,300,Basic Industries
+TCOM,14738,Business Services
+NCTY,59,Business Services
+CREG,42,Business Services
+GRNQ,35,Business Services
+TC,41,Business Services
+UXIN,405,Business Services
+PDD,50269,Business Services
+BAOS,17,Business Services
+CPOP§,34,Business Services
+UTSI,26,Capital Goods
+CAAS,94,Capital Goods
+CBAT,114,Capital Goods
+FFHL,24,Capital Goods
+KNDI,248,Capital Goods
+AEHL,8,Capital Goods
+NISN,31,Capital Goods
+ZKIN,39,Capital Goods
+RETO,35,Capital Goods
+GTEC§,55,Capital Goods
+NIU,737,Capital Goods
+DOGZ,214,Consumer Durables
+KXIN,165,Consumer Durables
+VIOT,121,Consumer Durables
+NIO,35130,Consumer Durables
+HAPP,11,Consumer Durables
+LI,27790,Consumer Durables
+EVK,28,Consumer Non-Durables
+SEED,48,Consumer Non-Durables
+PLAG,38,Consumer Non-Durables
+PME,55,Consumer Non-Durables
+LLL (prev.KBSF),16,Consumer Non-Durables
+BTB (prev. MYT),35,Consumer Non-Durables
+SISI (prev.TYHT),25,Consumer Non-Durables
+PETZ,56,Consumer Non-Durables
+FAMI,90,Consumer Non-Durables
+BTOG (prev. PLIN),84,Consumer Non-Durables
+YSG,434,Consumer Non-Durables
+DDL§,838,Consumer Non-Durables
+MF§,213,Consumer Non-Durables
+RLX,2812,Consumer Non-Durables
+EDU,1952,Consumer Services
+AACG,46,Consumer Services
+HTHT,10677,Consumer Services
+TAL,1941,Consumer Services
+FENG,41,Consumer Services
+VIPS,6111,Consumer Services
+LITB,118,Consumer Services
+TOUR,110,Consumer Services
+TEDU,28,Consumer Services
+JD,90011,Consumer Services
+HLG,344,Consumer Services
+BZUN,597,Consumer Services
+COE,38,Consumer Services
+YUMC,17679,Consumer Services
+HUSN,7,Consumer Services
+FEDU,30,Consumer Services
+SECO,25,Consumer Services
+RYB,26,Consumer Services
+BEDU,72,Consumer Services
+REDU,48,Consumer Services
+TKAT,31,Consumer Services
+AMBO,18,Consumer Services
+CANG,378,Consumer Services
+CSCW,43,Consumer Services
+MOGU,29,Consumer Services
+NEW,18,Consumer Services
+GHG,517,Consumer Services
+STG,58,Consumer Services
+ONE,10,Consumer Services
+MSC,540,Consumer Services
+METX,57,Consumer Services
+WAFU,14,Consumer Services
+ATIF§,35,Consumer Services
+MOHO,13,Consumer Services
+DAO,894,Consumer Services
+YJ,218,Consumer Services
+GOTU (prev. GSX),442,Consumer Services
+CLEU,22,Consumer Services
+ZCMD,32,Consumer Services
+EDTK,19,Consumer Services
+OCG,88,Consumer Services
+YGMZ,32,Consumer Services
+WNW,22,Consumer Services
+LXEH,64,Consumer Services
+BQ,40,Consumer Services
+IH,115,Consumer Services
+YQ,135,Consumer Services
+DADA,2118,Consumer Services
+MNSO,2390,Consumer Services
+BON§,30,Consumer Services
+EJH§,27,Consumer Services
+JZXN§,29,Consumer Services
+ZME§,25,Consumer Services
+KUKE,114,Consumer Services
+OG§,145,Consumer Services
+FHS,43,Consumer Services
+EM,322,Consumer Services
+RERE§,788,Consumer Services
+HNP*,14656,Energy
+SNP*,77740,Energy
+RCON,32,Energy
+CNEY,36,Energy
+LFC*,96402,Finance
+HGSH,77,Finance
+FANH,391,Finance
+DXF,14,Finance
+NOAH,1416,Finance
+CCNC,35,Finance
+YRD,213,Finance
+JP,24,Finance
+LYL,23,Finance
+SOS,131,Finance
+LX,479,Finance
+JT,23,Finance
+QD,299,Finance
+FINV,1125,Finance
+BTBT,251,Finance
+AIHS,14,Finance
+PHCF,12,Finance
+WEI,16,Finance
+CNF,221,Finance
+QFIN,2379,Finance
+XYF,149,Finance
+MDJH,24,Finance
+PUYI,346,Finance
+JFIN,149,Finance
+JFU,205,Finance
+TIGR,745,Finance
+CIH,96,Finance
+BRLI,63,Finance
+GRCY,55,Finance
+HUIZ,68,Finance
+QNGY (prev. CCAC),153,Finance
+LU,13715,Finance
+TIRX,13,Finance
+SNTG§,15,Finance
+HYW,208,Finance
+LAAA§,70,Finance
+SPK§,65,Finance
+WDH§,583,Finance
+BIMI,12,Health Care
+CO,468,Health Care
+CPHI,18,Health Care
+CJJD,13,Health Care
+HCM,3271,Health Care
+BGNE,19358,Health Care
+AHG (prev. HX),40,Health Care
+ZLAB,4240,Health Care
+YI,220,Health Care
+SXTC,8,Health Care
+AIH,38,Health Care
+ANPC,7,Health Care
+IMAB,1298,Health Care
+GTH,195,Health Care
+BNR,971,Health Care
+LEGN,5554,Health Care
+QLI,61,Health Care
+UPC,28,Health Care
+ADAG,153,Health Care
+GRCL,157,Health Care
+CNTB,166,Health Care
+LIAN§,398,Health Care
+MHUA§,222,Health Care
+NTP,245,Real Estate
+XIN,60,Real Estate
+LEJU,93,Real Estate
+DUO,29,Real Estate
+BEKE,18527,Real Estate
+UK,28,Real Estate
+QK,5,Real Estate
+SOHU,643,Technology
+NTES,60823,Technology
+JOBS,3951,Technology
+FTFT,53,Technology
+BIDU,47493,Technology
+CSIQ,2122,Technology
+ANTE,30,Technology
+TAOP,22,Technology
+LKCO,196,Technology
+TROO (prev. SGOC),439,Technology
+JKS,2303,Technology
+DQ,3079,Technology
+SFUN,32,Technology
+CNET,26,Technology
+VNET,865,Technology
+RENN,526,Technology
+YY,2705,Technology
+GLG,57,Technology
+BTCM,198,Technology
+ATHM,3801,Technology
+XNET,119,Technology
+CMCM,137,Technology
+MOMO,1142,Technology
+WB,5798,Technology
+BABA,292400,Technology
+MFH,34,Technology
+BRQS,35,Technology
+SPI,76,Technology
+MOXC,31,Technology
+GDS,7479,Technology
+ACMR,1215,Technology
+DTSS,68,Technology
+CLPS,47,Technology
+PT,28,Technology
+CTK,17,Technology
+JG,130,Technology
+QTT,43,Technology
+ZEPP,181,Technology
+HUYA,1064,Technology
+BILI,9795,Technology
+TME,8243,Technology
+IQ,3910,Technology
+LAIX,14,Technology
+MTC,15,Technology
+BHAT,26,Technology
+PBTS,27,Technology
+KRKR,44,Technology
+MKD,37,Technology
+CAN,933,Technology
+SY,209,Technology
+OCFT,550,Technology
+DOYU,675,Technology
+SJ,156,Technology
+HOLI,990,Technology
+WIMI,249,Technology
+QH,27,Technology
+LIZI,77,Technology
+BLCT,49,Technology
+YALA,645,Technology
+API,1152,Technology
+KC,1476,Technology
+CD,2293,Technology
+XPEV,23650,Technology
+GSMG,71,Technology
+UTME,20,Technology
+IFBD,18,Technology
+JWEL,56,Technology
+SDH,46,Technology
+RAAS,283,Technology
+ZH,1359,Technology
+BZ§,10188,Technology
+TUYA,1657,Technology
+DIDI§,12058,Technology
+ZNH*,14939,Transportation
+CEA*,11958,Transportation
+ZTO,21873,Transportation
+BEST,251,Transportation
+EH,665,Transportation
+EZGO,16,Transportation
+YMM§,7243,Transportation
